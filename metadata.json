@@ -1,0 +1,10 @@
+{
+  "name": "ZOOM AI Agent Desktop e66",
+  "description": "Desktop GUI wrapper for an AI agent CLI using Electron and React.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
